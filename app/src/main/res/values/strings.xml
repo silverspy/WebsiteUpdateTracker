@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wut</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="add_website">Ajouter un site Web</string>
+    <string name="edit_websites">Modifier les sites Web</string>
+
+
+</resources>

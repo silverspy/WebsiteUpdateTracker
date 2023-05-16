@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add_website"
+    android:title="@string/add_website"
+    app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_edit_websites"
+    android:title="@string/edit_websites"
+    app:showAsAction="ifRoom" />
+
+</menu>
